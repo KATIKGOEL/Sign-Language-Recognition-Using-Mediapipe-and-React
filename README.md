@@ -20,6 +20,8 @@
 
 - Real Time User Progress Data
 
+- Progressive Web App
+
 ## Tech Stack
 
 **Front-end:**
