@@ -1,4 +1,4 @@
-# **Sign Language Recognition for Deaf and Dumb**
+# **A Sign Language Learning Platform**
 
 ![Banner](./public/banner.png)
 
@@ -7,6 +7,8 @@
 - The result is a real-time sign language recognition application that recognizes a variety of sign language gestures.
 
 - Our Model is trained for 26 alphabets and 16 words of ASL and which are commonly used in general communication.
+
+- Using This Platform people who know sign language can come and practice sign language and also people who don't know can learn through this platform.
 
 ## Features
 
